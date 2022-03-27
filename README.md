@@ -38,11 +38,11 @@ THEN the saved events persist
 
 This project has been deployed to GitHub pages.
 
-* The URL of the deployed application:
+* The URL of the deployed application:https://demesibere.github.io/MyWork-Day-Scheduler/
 
-* The URL of the GitHub repository:
+* The URL of the GitHub repository:https://github.com/DemeSibere/MyWork-Day-Scheduler
 
 * Work Day Scheduler Demo: The following animation demonstrates the application functionality:
 
-      * ![A user clicks on slots on the color-coded calendar 
+    * ![A user clicks on slots on the color-coded calendar 
       and edits the events.](./Assets/homework-demo.gif)
