@@ -45,4 +45,6 @@ This project has been deployed to GitHub pages.
 * Work Day Scheduler Demo: The following animation demonstrates the application functionality:
 
     * ![A user clicks on slots on the color-coded calendar 
-      and edits the events.](./Assets/homework-demo.gif)
+      and edits the events.](./assets/homework-demo.gif)
+
+      
